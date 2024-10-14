@@ -22,12 +22,7 @@ from bin import T2GFormer
 from lib import Transformations, build_dataset, prepare_tensors, DATA, make_optimizer
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, roc_auc_score,roc_curve,auc
 
-'''DATASETS = [
-    'gesture', 'churn', 'eye', 'california', 
-    'house', 'adult', 'otto', 'helena', 'jannis', 
-    'higgs-small', 'fb-comments', 'year'
-]
-'''
+
 DATASETS = ['test']
 
 IMPLEMENTED_MODELS = [T2GFormer]
