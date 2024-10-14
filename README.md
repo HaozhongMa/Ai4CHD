@@ -21,6 +21,8 @@ environments can be  `pip` install:
 
 `pip install -r requirements.txt`
 
+## Data availability: 
+The data are not publicly available due to privacy or ethical restrictions. For the model, our online platform at https://aichd.online which will be under continuous development as we refine our model and add additional features is coming soon.
 
 ## Usage
 Machine Learning: 
