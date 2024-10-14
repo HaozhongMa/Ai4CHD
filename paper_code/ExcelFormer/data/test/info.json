@@ -1,0 +1,11 @@
+{
+    "name": "test", 
+    "id": "test--default", 
+    "task_type": "multiclass", 
+    "n_num_features": 47, 
+    "n_cat_features": 0, 
+    "train_size": 1280, 
+    "val_size": 320, 
+    "test_size": 400,
+    "n_classes": 3
+}
