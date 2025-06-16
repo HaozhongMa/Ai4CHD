@@ -5,7 +5,7 @@ Coronary heart disease (CHD), including its acute manifestation, acute coronary 
 
 Ai4CHD is an AI-driven approach leveraging machine learning (ML) and deep learning (DL) techniques to analyze electronic health records (EHR) data, integrating clinical, demographic, and laboratory variables. The aim is to accurately distinguish between stable CHD, ACS, and healthy individuals, aiding early diagnosis and treatment.
 
-![workflow](./images/workflow.png)
+![workflow](./images/fig1.drawio.png)
 
 ## Features
 AI models for diagnosing stable CHD, ACS, and healthy individuals.
